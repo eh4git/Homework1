@@ -1,0 +1,18 @@
+p {
+    color: blue;
+    font-weight: bold;
+}
+
+#ourconcepttext {
+    line-height: 4 !important; 
+    color:rgb(172, 9, 9 )!important; 
+    font-weight: bold !important;
+}
+
+.ourconcept {
+    color: Red !important;
+}
+.menuItem {
+    color: blue;
+    padding: 40px;
+}
